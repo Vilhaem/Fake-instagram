@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Fake instagram\\FakeInstagram\\FakeInstagram.csproj": {}
+    "c:\\Fake instagram\\FakeInstagram\\FakeInstagram.csproj": {}
   },
   "projects": {
-    "C:\\Fake instagram\\FakeInstagram\\FakeInstagram.csproj": {
+    "c:\\Fake instagram\\FakeInstagram\\FakeInstagram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Fake instagram\\FakeInstagram\\FakeInstagram.csproj",
+        "projectUniqueName": "c:\\Fake instagram\\FakeInstagram\\FakeInstagram.csproj",
         "projectName": "FakeInstagram",
-        "projectPath": "C:\\Fake instagram\\FakeInstagram\\FakeInstagram.csproj",
+        "projectPath": "c:\\Fake instagram\\FakeInstagram\\FakeInstagram.csproj",
         "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "C:\\Fake instagram\\FakeInstagram\\obj\\",
+        "outputPath": "c:\\Fake instagram\\FakeInstagram\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,28 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
