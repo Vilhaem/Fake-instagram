@@ -1,0 +1,6 @@
+*.dll
+FakeInstagram/obj/
+FakeInstagram/bin/
+FakeInstagram/app.db
+*.cache
+
