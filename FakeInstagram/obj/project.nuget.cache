@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F9TF9kiMJbieZohKeQ5xMfVuxbsJ0fb+AL/YSyDB1+FWaVhOI0TV6H4SVgMA3ynyRQjnyV0d/a1DIRtKaSfUTg==",
+  "dgSpecHash": "jkEu5k5z8mosFYu3iqdYqCw/A6WhUrgSY88scpjB/Yv9pSQbPGVxw/Z6cBCQXlsmvjb+Vcc2R5HZIilxKsaWtg==",
   "success": true,
-  "projectFilePath": "c:\\Fake instagram\\FakeInstagram\\FakeInstagram.csproj",
+  "projectFilePath": "C:\\Fake instagram\\FakeInstagram\\FakeInstagram.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\William\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\William\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.4\\microsoft.aspnetcore.cryptography.internal.7.0.4.nupkg.sha512",

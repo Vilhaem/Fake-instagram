@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vtgxQtrhN9KoEsM0B1vrW7YUMj02ctFibs70mk4y25U8zQsIobvEuyOFeUDW13Mz3Jf8rdDHTZuv8sngXMtMqw==",
+  "dgSpecHash": "ZTpDlVT4aYii1le1OPUJh/vsmPvEWqC7ADtSJcbzI/XoRwkCFuBC+Smn+jBJ8ZDrUf+deoqMaPhnqhf93cwb3A==",
   "success": true,
-  "projectFilePath": "c:\\Fake instagram\\FakeInstagram.Test\\FakeInstagram.Test.csproj",
+  "projectFilePath": "C:\\Fake instagram\\FakeInstagram.Test\\FakeInstagram.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\William\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\William\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

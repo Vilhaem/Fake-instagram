@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Fake instagram\\FakeInstagram.Test\\FakeInstagram.Test.csproj": {}
+    "C:\\Fake instagram\\FakeInstagram.Test\\FakeInstagram.Test.csproj": {}
   },
   "projects": {
-    "c:\\Fake instagram\\FakeInstagram.Test\\FakeInstagram.Test.csproj": {
+    "C:\\Fake instagram\\FakeInstagram.Test\\FakeInstagram.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Fake instagram\\FakeInstagram.Test\\FakeInstagram.Test.csproj",
+        "projectUniqueName": "C:\\Fake instagram\\FakeInstagram.Test\\FakeInstagram.Test.csproj",
         "projectName": "FakeInstagram.Test",
-        "projectPath": "c:\\Fake instagram\\FakeInstagram.Test\\FakeInstagram.Test.csproj",
+        "projectPath": "C:\\Fake instagram\\FakeInstagram.Test\\FakeInstagram.Test.csproj",
         "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "c:\\Fake instagram\\FakeInstagram.Test\\obj\\",
+        "outputPath": "C:\\Fake instagram\\FakeInstagram.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config"
