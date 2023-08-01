@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "Weather";
+}
+
+@* <div class="text-center"> *@
+<div>
+    <h1 class="display-4">Get the weather of a country</h1>
+
+    <p>@Html.TextBox("name", null, new { @class = "form-control" })</p>
+    <button>Get weather</button>
+    <br>
+
+    <code>
+        @ViewBag.weatherInfo
+    </code>
+</div>

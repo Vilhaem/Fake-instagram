@@ -1,5 +1,5 @@
 namespace FakeInstagram.Test;
-
+using FakeInstagram.Models;
 public class UnitTest1
 {
     [Fact]
