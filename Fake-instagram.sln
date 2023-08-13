@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fake-instagram", "Fake-instagram\Fake-instagram.csproj", "{C873E222-DB5B-4ABC-BA19-5B5343AF31B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fake-instagram.test", "Fake-instagram.test\Fake-instagram.test.csproj", "{51A6B54A-09A6-4D61-86DF-92F0646D2CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C873E222-DB5B-4ABC-BA19-5B5343AF31B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C873E222-DB5B-4ABC-BA19-5B5343AF31B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C873E222-DB5B-4ABC-BA19-5B5343AF31B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C873E222-DB5B-4ABC-BA19-5B5343AF31B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A6B54A-09A6-4D61-86DF-92F0646D2CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A6B54A-09A6-4D61-86DF-92F0646D2CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A6B54A-09A6-4D61-86DF-92F0646D2CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A6B54A-09A6-4D61-86DF-92F0646D2CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
